@@ -4,6 +4,9 @@
  * building robust, powerful web applications using React + Laravel.
  */
 
+import ReactDOM from "react-dom";
+import React from "react";
+
 require('./bootstrap');
 
 /**
@@ -12,4 +15,4 @@ require('./bootstrap');
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-require('./components/Example');
+require('./components/MyApp');
